@@ -1,3 +1,6 @@
+# Chandler Supple, 5/17/2018
+# Call with the function - standard_deviation(dataset)
+
 import math
 
 def standard_deviation(input_x):
